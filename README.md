@@ -1,26 +1,11 @@
 ### Hi, Aditya here👋
 
-<!--
-**blank0826/blank0826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I am a passionate Full Stack Developer, currently doing B.Tech CSE (2023) in [Shiv Nadar University](https://snu.edu.in/)
 - 😄 Skilled in **App Development**.
 - 🌱 I’m currently learning React, Node and DSA.
 - 🔭 I’m currently working on being able to create a fully functional website using React, Node on my own.
 - :monocle_face:	Recently created web project using Vanilla JavaScript.
-- :+1: Like to play games and have some time for myself.
+- :+1: Like to play games, edit videos and have some time for myself.
 - ⚡ Intrigued to learn ML.
 
 <h2 align="center">Connect With Me :handshake:</h2>
