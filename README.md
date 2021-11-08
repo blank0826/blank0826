@@ -15,6 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2 align="center">Connect With Me:bar_chart:</h2>
+
+<div style="margin-top:10px" align="center">
+  <div>
+    <a  href="https://www.instagram.com/aditya_.srivastava/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-C13584?logo=instagram&logoColor=white&style=for-the-badge" alt="example"/>
+    </a>
+    <a  href="mailto:aditya26052002@gmail.com?subject=GitHub" target="_blank">
+      <img src="https://img.shields.io/badge/-GMAIL-red?logo=Gmail&logoColor=white&style=for-the-badge" alt="example"/>
+    </a>
+  </div>
+  <div>
+    <a href="https://www.linkedin.com/in/as369/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
+    <a href="https://leetcode.com/blank0826/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
+    </a>
+  </div>
+</div>
+
 <h2 align="center">GitHub Stats :bar_chart:</h2>
 
 <h4 align="center">Top languages </h4>
