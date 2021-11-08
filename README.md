@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Connect With Me:bar_chart:</h2>
+<h2 align="center">Connect With Me :handshake:</h2>
 
 <div style="margin-top:10px" align="center">
   <div>
@@ -34,6 +34,8 @@ Here are some ideas to get you started:
     </a>
   </div>
 </div>
+
+<br /><br />
 
 <h2 align="center">GitHub Stats :bar_chart:</h2>
 
