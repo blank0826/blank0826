@@ -22,6 +22,8 @@ Here are some ideas to get you started:
     <a  href="https://www.instagram.com/aditya_.srivastava/" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-C13584?logo=instagram&logoColor=white&style=for-the-badge" alt="example"/>
     </a>
+  </div>
+    <div>
     <a  href="mailto:aditya26052002@gmail.com?subject=GitHub" target="_blank">
       <img src="https://img.shields.io/badge/-GMAIL-red?logo=Gmail&logoColor=white&style=for-the-badge" alt="example"/>
     </a>
@@ -29,9 +31,6 @@ Here are some ideas to get you started:
   <div>
     <a href="https://www.linkedin.com/in/as369/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://leetcode.com/blank0826/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
     </a>
   </div>
 </div>
