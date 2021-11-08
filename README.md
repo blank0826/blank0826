@@ -35,8 +35,7 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-<br /><br />
-
+<br />
 <h2 align="center">GitHub Stats :bar_chart:</h2>
 
 <h4 align="center">Top languages </h4>
