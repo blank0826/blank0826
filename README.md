@@ -1,6 +1,6 @@
 ### Hi, Aditya here👋
 
-I am a passionate Full Stack Developer, currently doing B.Tech CSE (2023) in [Shiv Nadar University](https://snu.edu.in/)
+I am a passionate Full-Stack Developer, currently doing B.Tech CSE (2023) in [Shiv Nadar University](https://snu.edu.in/)
 - 😄 Skilled in **App Development**.
 - 🌱 I’m currently learning React, Node and DSA.
 - 🔭 I’m currently working on being able to create a fully functional website using React, Node on my own.
