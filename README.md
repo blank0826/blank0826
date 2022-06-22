@@ -1,12 +1,10 @@
 ### Hi, Aditya here👋
 
 I am a passionate website/app developer, currently doing B.Tech CSE (2023) in [Shiv Nadar University](https://snu.edu.in/)
-- 😄 Skilled in **App Development**.
-- 🌱 I’m currently learning React, Node and DSA.
-- 🔭 I’m currently working on being able to create a fully functional website using React, Node on my own.
-- :monocle_face:	Recently created web project using Vanilla JavaScript.
+- 😄 Skilled in **App/Web Development**.
+- 🌱 I’m currently learning Node and DSA.
+- :monocle_face:	Recently created web project using React and Firebase.
 - :+1: Like to play games, edit videos and have some time for myself.
-- ⚡ Intrigued to learn ML.
 
 <h2 align="center">Connect With Me :handshake:</h2>
 
