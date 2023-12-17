@@ -1,8 +1,7 @@
 ### Hi, Aditya here👋
 
-I am a passionate website/app developer, currently doing B.Tech CSE (2023) in [Shiv Nadar University](https://snu.edu.in/)
-- 😄 Skilled in **App/Web Development**.
-- 🌱 I’m currently learning Node and DSA.
+I am a passionate website/app developer, did my B.Tech CSE (2023) from [Shiv Nadar University](https://snu.edu.in/)
+- 😄 Skilled in **App/Web Development, Node and DSA**.
 - :monocle_face:	Recently created web project using React and Firebase.
 - :+1: Like to play games, edit videos and have some time for myself.
 
@@ -32,8 +31,6 @@ I am a passionate website/app developer, currently doing B.Tech CSE (2023) in [S
 
 <h3 align="center">Top Languages</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blank0826&layout=compact&show_icons=true&theme=radical" alt="Aditya :: Top Langs" /></p>
-<h3 align="center">Profile Statistics</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=blank0826&show_icons=true&theme=radical" alt="Aditya :: Top Langs" /></p>
 
 ----
 
