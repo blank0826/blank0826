@@ -6,6 +6,7 @@ I am a passionate website/app developer, did my B.Tech CSE (2023) from [Shiv Nad
 - :+1: Like to play games, edit videos and have some time for myself.
 
 <h2 align="center">Tech Skills :gear:</h2>
+- 😄 Skilled in **App/Web Development, Node and DSA**.
 * Java<br />
 - JavaScript<br />
 - SQL<br />
