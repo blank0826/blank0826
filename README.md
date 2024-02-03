@@ -5,8 +5,8 @@ I am a passionate website/app developer, did my B.Tech CSE (2023) from [Shiv Nad
 - :monocle_face:	Recently created web project using React and Firebase.
 - :+1: Like to play games, edit videos and have some time for myself.
 
-<h2 align="center">Tech Skills:gear:</h2>
-- Java<br />
+<h2 align="center">Tech Skills :gear:</h2>
+* Java<br />
 - JavaScript<br />
 - SQL<br />
 - React<br />
