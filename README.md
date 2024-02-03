@@ -1,9 +1,28 @@
 ### Hi, Aditya here👋
 
-I am a passionate website/app developer, did my B.Tech CSE (2023) from [Shiv Nadar University](https://snu.edu.in/)
+I am a passionate website/app developer, did my B.Tech CSE (2023) from [Shiv Nadar University](https://snu.edu.in/), currently working as a Technology Associate in [Morgan Stanley](https://www.morganstanley.com/)
 - 😄 Skilled in **App/Web Development, Node and DSA**.
 - :monocle_face:	Recently created web project using React and Firebase.
 - :+1: Like to play games, edit videos and have some time for myself.
+
+<h2 align="center">Tech Skills:gear:</h2>
+- Java
+- JavaScript
+- SQL
+- React
+- Angular
+- Node.js
+- Redux.js
+- Firebase
+- Git
+- C/C++
+- Python
+- HTML/HTML5
+- CSS/SCSS
+- XML
+- Android Studio
+
+<br />
 
 <h2 align="center">Connect With Me :handshake:</h2>
 
