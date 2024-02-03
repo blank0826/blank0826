@@ -6,20 +6,20 @@ I am a passionate website/app developer, did my B.Tech CSE (2023) from [Shiv Nad
 - :+1: Like to play games, edit videos and have some time for myself.
 
 <h2 align="center">Tech Skills:gear:</h2>
-- Java
-- JavaScript
-- SQL
-- React
-- Angular
-- Node.js
-- Redux.js
-- Firebase
-- Git
-- C/C++
-- Python
-- HTML/HTML5
-- CSS/SCSS
-- XML
+- Java<br />
+- JavaScript<br />
+- SQL<br />
+- React<br />
+- Angular<br />
+- Node.js<br />
+- Redux.js<br />
+- Firebase<br />
+- Git<br />
+- C/C++<br />
+- Python<br />
+- HTML/HTML5<br />
+- CSS/SCSS<br />
+- XML<br />
 - Android Studio
 
 <br />
